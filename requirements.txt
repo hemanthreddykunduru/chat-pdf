@@ -2,3 +2,4 @@ python-dotenv
 PyPDF2
 streamlit
 langchain
+instructorembedding
