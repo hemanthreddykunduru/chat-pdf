@@ -1,4 +1,4 @@
-python-dotenv==1.0.0
-PyPDF2==3.0.1
-streamlit==1.29.0
-langchain==0.0.350
+python-dotenv
+PyPDF2
+streamlit
+langchain
